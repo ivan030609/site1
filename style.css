@@ -1,0 +1,129 @@
+.menu{
+	background-color:purple;
+	position:fixed;
+	width: 10%;
+	height: 100%;
+	border-radius:20px;
+	text-align: center;
+
+
+}
+.menu a {
+	text-decoration: none;
+	color:white;
+	display: block;
+
+}
+.menu h5 {
+	color: white;
+}
+.content{
+	position: relative;
+	left: 15%;
+	width: 80%;
+}
+hr {
+	border-color: purple;
+	border-width: 5px;
+	border-radius: 5px;
+	background-color: purple;
+}
+h3 {
+	font-size: 25px;
+	color: purple;
+}
+img {
+	width: 40%;
+	border-radius: 8px;
+	margin: 7px;
+	filter: grayscale(60%);
+}
+.desk{
+	border-radius: 8px;
+	background-color: #e6e6e6;
+	padding: 5px;
+}
+.block1 {
+	display: inline-block;
+	width: 30%;
+
+}
+.block1 img {
+	width: 100%;
+	margin: 0px;
+}
+.name {
+	font-weight: bold;
+
+}
+.job {
+	color: grey;
+}
+.bk {
+	border: 1px grey solid;
+	display: inline-block;
+	width: 500px;
+	text-align: center;
+	 border-radius:8px; 
+}
+.bt {
+	background-color: purple;
+	padding-top: 20px;
+	margin: 0;
+	border-radius: 8px;
+	padding-bottom: 20px;
+}
+button {
+	border-radius: 10px;
+	color: purple;
+}
+.bt{
+	color: black;
+}
+.bb {
+	color: black;
+	background-color: red;
+	border-radius: 8px;
+	padding-bottom: 20px;
+	margin: 0;
+	padding-top: 20px;
+}
+.pro {
+border: 1px grey solid;
+display: inline-block;
+width: 500px;
+text-align: center;
+border-radius: 8px;
+}
+.pro button {
+	border-radius: 10px;
+	background-color: red;
+	color: white;
+}
+.bk p {
+	border-bottom: 1px black solid;
+}
+.shop{
+	font-size: 30px;
+}
+.bk{
+	background-color: grey;
+}
+.pro p {
+	border-bottom: 1px black solid;
+}
+.pro {
+	background-color: grey;
+}
+form button {
+	color:white;
+	background-color: purple;
+	width: 100%;
+	margin-top: 5px;
+}
+form p {
+	margin-bottom: 0px;
+}
+form input {
+width: 100%;
+}
